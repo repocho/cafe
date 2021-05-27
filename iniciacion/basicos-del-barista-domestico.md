@@ -44,7 +44,7 @@ También puede contactar conmigo por email en
 
 José María García es un simple aficionado doméstico al café. Esta obra se publica sin interés comercial y puede ser libremente compartida así como generar otras obras a partir de ella si se publican de la misma manera.
 
-![](../.gitbook/assets/0.png)
+![](../.gitbook/assets/0%20%281%29.png)
 
 Este obra está bajo una licencia de
 
@@ -65,10 +65,10 @@ El café en casa se puede preparar con muchos métodos pero aquí voy a repasar 
 | ![](../.gitbook/assets/1%20%281%29.png) | Italiana, Moka o Bialetti |
 | :--- | :--- |
 | ![](../.gitbook/assets/2%20%281%29.png) | V60, filtrado “en cono” |
-| ![](../.gitbook/assets/3.png) | Moccamaster, filtrado en máquina |
-| ![](../.gitbook/assets/4%20%281%29.png) | Aeropress |
+| ![](../.gitbook/assets/3%20%281%29.png) | Moccamaster, filtrado en máquina |
+| ![](../.gitbook/assets/4%20%281%29%20%281%29.png) | Aeropress |
 | ![](../.gitbook/assets/5.png) | Prensa francesa |
-| ![](../.gitbook/assets/6.png) | Espresso, americano, cortado, capuchino... |
+| ![](../.gitbook/assets/6%20%281%29.png) | Espresso, americano, cortado, capuchino... |
 
 ## EL CAFÉ
 
@@ -178,11 +178,11 @@ Si queremos un café equilibrado donde no apreciemos demasiado amargor o demasia
 
 Si el bolsillo nos lo permite podemos invertir en un molino caro como por ejemplo un Comandante C40, que anda por los 250 euros pero que da un resultado espectacular y que en un momento dado también nos puede servir para espresso.
 
-![](../.gitbook/assets/7.png)
+![](../.gitbook/assets/7%20%281%29.png)
 
 Otro molino de precio medio que da un magnífico resultado en filtro y que nos puede servir para espresso es el ROK, que ronda los 170 euros
 
-![](../.gitbook/assets/8%20%281%29.png)
+![](../.gitbook/assets/8%20%281%29%20%281%29.png)
 
 Pero si tenemos poco dinero y queremos hacer café de filtro podemos optar por estos molinos
 
@@ -207,7 +207,7 @@ TABLA DE MOLINOS PARA FILTRO
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/10.png" alt/>
+        <img src="../.gitbook/assets/10 (1).png" alt/>
       </td>
       <td style="text-align:left">
         <p>Hario MXR2TB - Entre 45 y 80 euros</p>
@@ -246,7 +246,7 @@ Molinos estupendos pero algo más caros
   <tbody>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/13 (1).png" alt/>
+        <img src="../.gitbook/assets/13 (1) (1).png" alt/>
       </td>
       <td style="text-align:left">Handground - 88 euros</td>
     </tr>
@@ -256,7 +256,7 @@ Molinos estupendos pero algo más caros
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/14 (1).png" alt/>
+        <img src="../.gitbook/assets/14 (1) (1).png" alt/>
       </td>
       <td style="text-align:left">Melitta 1019 - 47 euros</td>
     </tr>
@@ -280,7 +280,7 @@ Si andamos más sobrados de presupuesto podemos mirar molinos manuales magnífic
 | ![](../.gitbook/assets/16%20%281%29.png) | ![](../.gitbook/assets/17.png) |
 | :--- | :--- |
 | Lido 2 o Lido 3 o Lido E | Helor 101 |
-| ![](../.gitbook/assets/18.png) | ![](../.gitbook/assets/19.png) |
+| ![](../.gitbook/assets/18%20%281%29.png) | ![](../.gitbook/assets/19.png) |
 | Kinu M47 | 1zPresso K-pro y K-plus |
 
 Estos molinos son caros pero nos pueden servir también para hacer espresso y esto es un valor a tener en cuenta.
@@ -321,7 +321,7 @@ Moccamaster
 
 Para terminar con el café de filtro y para aquellos que no quieran gastar lo que cuesta una Moccamaster pero quieran un sistema eléctrico, dejo referencia de una cafetera eléctrica para una o dos tazas muy económica, sobre los 35 ó 40 euros y que da un magnífico resultado
 
-![](../.gitbook/assets/21%20%281%29.png)
+![](../.gitbook/assets/21%20%281%29%20%281%29.png)
 
 Melitta Aromaboy
 
@@ -361,7 +361,7 @@ El cremado de la leche es muy sencillo utilizando una cafetera de émbolo o pren
 
 Si comprara una superautomática optaría por las más económicas, por ejemplo
 
-| ![](../.gitbook/assets/22%20%281%29.png) | ![](../.gitbook/assets/23.png) | ![](../.gitbook/assets/24%20%281%29.png) |
+| ![](../.gitbook/assets/22%20%281%29.png) | ![](../.gitbook/assets/23.png) | ![](../.gitbook/assets/24%20%281%29%20%281%29.png) |
 | :--- | :--- | :--- |
 | Krups Roma - 250 € | De’longhi Magnifica - 300 € | Cecotec Power Matic - 268 € |
 
@@ -394,7 +394,7 @@ Vamos a ver qué necesitamos comprar para hacer café espresso.
   <tbody>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/25 (1).png" alt/>
+        <img src="../.gitbook/assets/25 (1) (1).png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Una b&#xE1;scula</b>
@@ -440,7 +440,7 @@ Vamos a ver qué necesitamos comprar para hacer café espresso.
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/29 (1).png" alt/>
+        <img src="../.gitbook/assets/29 (1) (1).png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>Un nivelador</b>
@@ -478,7 +478,7 @@ Vamos a ver qué necesitamos comprar para hacer café espresso.
           <img src="../.gitbook/assets/31 (1).png" alt/>
         </p>
         <p>
-          <img src="../.gitbook/assets/32.png" alt/>
+          <img src="../.gitbook/assets/32 (1).png" alt/>
         </p>
       </td>
       <td style="text-align:left">
@@ -490,7 +490,7 @@ Vamos a ver qué necesitamos comprar para hacer café espresso.
     </tr>
     <tr>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/33 (1).png" alt/>
+        <img src="../.gitbook/assets/33 (1) (1).png" alt/>
         <img src="../.gitbook/assets/34.png" alt/>
       </td>
       <td style="text-align:left">
@@ -511,7 +511,7 @@ Si estamos comenzando podemos comprar accesorios que nos den una buena relación
 
 **Báscula** **Zacro** precisión 0.01 - 12 euros
 
-![](../.gitbook/assets/35.png)
+![](../.gitbook/assets/35%20%281%29.png)
 
 Una precisión de 0.1 es suficiente, pero personalmente prefiero esta báscula que mide hasta 0.01 por tan solo 12 euros en Amazon
 
@@ -519,7 +519,7 @@ Una precisión de 0.1 es suficiente, pero personalmente prefiero esta báscula q
 
 El tamper tiene distintos diámetros, antes de comprarlo debemos conocer el diámetro del portafiltros de nuestra máquina. Las máquinas de gama media - alta suelen tener filtros \(cestillos\) de 58mm mientras que las de entrada suelen tener filtros de 51mm. En Aliexpress podemos encontrar este tamper que yo mismo tengo y es de una calidad asombrosa.
 
-![](../.gitbook/assets/36%20%281%29.png)
+![](../.gitbook/assets/36%20%281%29%20%281%29.png)
 
 También podemos comprar un tamper de la marca Motta pagando algo más, pero son de muy buena calidad.
 
@@ -527,7 +527,7 @@ En el mercado también se pueden encontrar tampers “dinamométricos” que sup
 
 No he probado nunca un tamper caro como este
 
-![](../.gitbook/assets/37.png)
+![](../.gitbook/assets/37%20%281%29.png)
 
 pero sí uno como este
 
@@ -557,7 +557,7 @@ Una de las mejores marcas de tazas es ACME y se pueden encontrar también en Com
 
 ![](../.gitbook/assets/39%20%281%29.png)
 
-![](../.gitbook/assets/40%20%281%29.png)
+![](../.gitbook/assets/40%20%281%29%20%281%29.png)
 
 La taza de espresso por excelencia es la de la marca Illy, todo un clásico
 
@@ -571,7 +571,7 @@ Es una cuestión de gustos pero el café me gusta en taza de porcelana, veo una 
 
 En el término medio he utilizado alguna vez vasitos de la serie Picardie de Duralex de 9cl y no están mal, pero nada que ver con una taza ACME, Illy o similar
 
-![](../.gitbook/assets/43%20%281%29.png)
+![](../.gitbook/assets/43%20%281%29%20%281%29.png)
 
 **Nivelador distribuidor**
 
@@ -599,7 +599,7 @@ _Filtros presurizados y no presurizados. Diámetro de los filtros. Dobles o simp
 
 Antes de hablar de los molinos o de las máquinas voy a dedicar un capítulo en exclusiva a hablar de los filtros o “cestillos” de las máquinas de espresso porque es una de las cuestiones que más dudas y preguntas suscita entre los principiantes. Esto es un filtro
 
-![](../.gitbook/assets/44.png)
+![](../.gitbook/assets/44%20%281%29.png)
 
 es donde se pone el café molido para sacar un espresso y va insertado en el portafiltros que es esto
 
@@ -617,11 +617,11 @@ Un filtro normal es así por arriba
 
 y así por la parte de abajo
 
-![](../.gitbook/assets/47.png)
+![](../.gitbook/assets/47%20%281%29.png)
 
 Vemos que los agujeros que tiene visto desde arriba son los mismos que tiene visto desde abajo. Bien, esto es lo normal de un agujero, que se abre por arriba y se ve por debajo, sin embargo la mayoría de las máquinas de gama de entrada \(menos de 400 euros\) no traen filtro así, traen filtros que por debajo son así
 
-![](../.gitbook/assets/48.png)
+![](../.gitbook/assets/48%20%281%29.png)
 
 Esto se llama un filtro “presurizado” y lo que el fabricante ha hecho es tapar con una fina chapa las salidas del filtro y dejar en esa chapa un pequeño número de agujeros, a veces incluso se deja un sólo agujero. Y ¿por qué hace esto el fabricante? Pues lo hace porque asume que no tenemos un buen molino y así podemos poner café toscamente molido que no hará la suficiente presión por sí mismo como para sacar crema pero de eso se encargará el filtro. Este sistema se va a encargar de generar de forma artificial la presión necesaria y sacará “café a presión” de forma que se genere “espuma” de café y de esta forma el resultado se asemeje visualmente a lo que es un espresso correcto.
 
@@ -641,7 +641,7 @@ La tercera duda en relación a los filtros es si podemos usar el simple para hac
 
 mientras que un filtro doble es así
 
-![](../.gitbook/assets/50.png)
+![](../.gitbook/assets/50%20%281%29.png)
 
 La respuesta es difícil de asumir para el aficionado novel pero cuanto antes lo asuma, mejor para el café que obtenga en casa. Debemos usar el filtro doble siempre. El filtro simple podemos echarlo al cajón y olvidarnos de él.
 
@@ -653,7 +653,7 @@ No es necesario fustigarse por ello, si tomamos café nosotros solos, un espress
 
 La última duda respecto a los filtros es si debemos comprar un porta “naked”, es decir, un porta que expone la parte de abajo del filtro porque carece de vertederas.
 
-![](../.gitbook/assets/51%20%281%29.png)
+![](../.gitbook/assets/51%20%281%29%20%281%29.png)
 
 ![](../.gitbook/assets/52%20%281%29.png)
 
@@ -680,10 +680,10 @@ Gama de entrada
         <img src="../.gitbook/assets/53.png" alt/>
       </th>
       <th style="text-align:left">
-        <img src="../.gitbook/assets/54.png" alt/>
+        <img src="../.gitbook/assets/54 (1).png" alt/>
       </th>
       <th style="text-align:left">
-        <img src="../.gitbook/assets/55.png" alt/>
+        <img src="../.gitbook/assets/55 (1).png" alt/>
       </th>
     </tr>
   </thead>
@@ -710,7 +710,7 @@ Gama de entrada
         <img src="../.gitbook/assets/57.png" alt/>
       </td>
       <td style="text-align:left">
-        <img src="../.gitbook/assets/58.png" alt/>
+        <img src="../.gitbook/assets/58 (1).png" alt/>
       </td>
     </tr>
     <tr>
@@ -740,7 +740,7 @@ Otra característica que comparten estos molinos \(excepto el Sage que tiene reg
 
 Algunos de estos molinos tienen muelas planas y otros tienen muelas cónicas. En principio esto no debe preocuparnos, no vamos a notar una diferencia apreciable en la taza por el hecho que las muelas sean cónicas o planas.
 
-| ![](../.gitbook/assets/59%20%281%29.png) | ![](../.gitbook/assets/60%20%281%29.png) |
+| ![](../.gitbook/assets/59%20%281%29%20%281%29.png) | ![](../.gitbook/assets/60%20%281%29.png) |
 | :--- | :--- |
 | Muelas cónicas | Muelas planas |
 
@@ -756,7 +756,7 @@ Nos puede parecer un despilfarro invertir más de 500 euros en un molino, pero s
 
 En casa, además del ROK, utilizo para diario un Ceado e37 que pude adquirir a un precio muy ventajoso, una auténtica bestia parda moliendo café. Es una delicia escucharlo moler y creo que vale cada euro que me costó
 
-![](../.gitbook/assets/61.png)
+![](../.gitbook/assets/61%20%281%29.png)
 
 Hay que tener en cuenta que tanto la máquina como el molino nos van a durar muchos años y que invertir digamos 500 euros en el molino es probablemente un importe equivalente a lo que vamos a gastar en café en un año. Si disponemos del efectivo o de una financiación a un tipo interesante y queremos llegar a ser unos buenos baristas domésticos es importante invertir en un buen molino.
 
@@ -764,7 +764,7 @@ Vamos a proponer dos molinos cuyo precio roza los 600 euros.
 
 El primero es un molino salido de un proyecto de crowdfunding que buscaba producir un molino con suficiente calidad para espresso y sin retención. Se trata del Niche Zero
 
-![](../.gitbook/assets/62.png)
+![](../.gitbook/assets/62%20%281%29.png)
 
 El segundo candidato es el Baratza Sette 270wi, un molino que además nos pesa el café que va poniendo en el porta
 
@@ -800,7 +800,7 @@ Lo ideal es moler sólo el café que vamos a consumir, esto se conoce como “si
 
 Hay molinos especialmente diseñados para single dosing, en el apartado de molinos ya vimos el Niche Zero o como ejemplo también tenemos el Ceado E5SD
 
-![](../.gitbook/assets/65.png)
+![](../.gitbook/assets/65%20%281%29.png)
 
 Son molinos caros, el Niche ya hemos visto que cuesta casi 600 euros y los Ceado SD están entre 800 y 1.000 euros.
 
@@ -830,10 +830,10 @@ Vamos a comenzar revisando las máquinas más económicas. En este nivel previo 
 
 Estas son algunas cafeteras con las que podremos hacer buenos cafés:
 
-| ![](../.gitbook/assets/66.png) | ![](../.gitbook/assets/67.png) | ![](../.gitbook/assets/68%20%281%29.png) |
+| ![](../.gitbook/assets/66%20%281%29.png) | ![](../.gitbook/assets/67.png) | ![](../.gitbook/assets/68%20%281%29.png) |
 | :--- | :--- | :--- |
 | Minimoka 1821 | Cecotec Espresso 20 | De’longhi Dedica |
-| ![](../.gitbook/assets/69%20%281%29.png) |  |  |
+| ![](../.gitbook/assets/69%20%281%29%20%281%29.png) |  |  |
 | Kotea C106 de Maxicoffee |  |  |
 
 Como vemos la Minimoka y la Cecotec son la misma máquina, también casi idéntica a la Solac CE4480 o la Ufesa CE7240, son todas la misma máquina. Si esperamos alguna oferta podemos comprarlas por unos 70 euros. Son cafeteras bastante cómodas y vienen con filtros presurizados que tan sólo tenemos que cambiar por un filtro doble de 51mm “non pressurized” que cuesta unos 3 ó 4 euros cuando nos cansemos de jugar con los filtros presurizados. Realmente no le veo ningún inconveniente en empezar la afición con una de estas máquinas y un buen molino.
@@ -883,7 +883,7 @@ En el siguiente esquema podemos ver cómo funciona una OPV. Al aumentar la presi
 
 En algunas máquinas estas válvulas son regulables por el usuario mediante un tornillo que regula la presión del muelle. En las máquinas de precio medio es habitual que la válvula no sea regulable o si lo és, que esté poco accesible y sea necesario desarmar la máquina para llegar a ella.
 
-| ![](../.gitbook/assets/71%20%281%29.png) | ![](../.gitbook/assets/72%20%281%29.png) |
+| ![](../.gitbook/assets/71%20%281%29.png) | ![](../.gitbook/assets/72%20%281%29%20%281%29.png) |
 | :--- | :--- |
 
 
@@ -891,7 +891,7 @@ En algunas máquinas estas válvulas son regulables por el usuario mediante un t
 
 Esta es una característica fundamental para toda máquina que se precie. Es una válvula que desaloja la presión que se produce en el porta y lleva el agua sobrante de la extracción a la bandeja de la máquina.
 
-![](../.gitbook/assets/73.png)
+![](../.gitbook/assets/73%20%281%29.png)
 
 Aspecto de la válvula de 3 vías
 
@@ -921,7 +921,7 @@ mientras que según sube el precio vamos viendo portafiltros como este
 
 y las máquinas de gama más alta se suelen ver más así
 
-![](../.gitbook/assets/76.png)
+![](../.gitbook/assets/76%20%281%29.png)
 
 **Lanza de vapor**
 
@@ -929,11 +929,11 @@ El aspecto de la lanza es una de las mayores pistas sobre la calidad de la máqu
 
 Las máquinas modestas suelen tener este aspecto, con el clásico tubito o panarello
 
-![](../.gitbook/assets/77.png)
+![](../.gitbook/assets/77%20%281%29.png)
 
 En máquinas de gama media comenzamos a ver lanzas de vapor como estas
 
-![](../.gitbook/assets/78%20%281%29.png)
+![](../.gitbook/assets/78%20%282%29.png)
 
 **Máquinas “entry level”**
 
@@ -941,7 +941,7 @@ En la gama de entrada ya comenzamos a tener más variedad para elegir.
 
 A continuación algunas de las máquinas más vendidas.
 
-| ![](../.gitbook/assets/79.png) | ![](../.gitbook/assets/80.png) | ![](../.gitbook/assets/81%20%281%29.png) |
+| ![](../.gitbook/assets/78.png) | ![](../.gitbook/assets/80%20%281%29.png) | ![](../.gitbook/assets/81%20%281%29.png) |
 | :--- | :--- | :--- |
 | Gaggia Classic 2018 | Rancilio Silvia v6 | Lelit PL41TEM |
 | ![](../.gitbook/assets/82.png) |  |  |
@@ -965,7 +965,7 @@ En la gama media vamos a ver máquinas entre 500 y 2.000 euros y además comenza
 
 Las calderas de las máquinas económicas y las “entry level” son pequeñas y se ubican justo encima del “grupo” que es por donde sale el café, son algo así
 
-![](../.gitbook/assets/84.png)
+![](../.gitbook/assets/84%20%281%29.png)
 
 Sin embargo en máquinas de gama media y alta las calderas suelen estar separadas del grupo y comunicadas mediante tuberías.. Además suelen estar aisladas térmicamente. En la siguiente foto vemos la caldera de una ECM Classika. El tamaño de la caldera es mayor, ya no está puesta encima del grupo, está conectada con él mediante dos conductos y lleva un aislamiento que ayuda a mantener la estabilidad térmica.
 
@@ -995,7 +995,7 @@ Estas máquinas por tanto no requieren que se pulse “el botón” para generar
 
 En la siguiente foto vemos una caldera cortada por la mitad y también el intercambiador cortado. El agua proviene de la bomba por el tubo de cobre y debido a la presion sale por el otro. Se calienta al pasar por dentro de la caldera.
 
-![](../.gitbook/assets/87.png)
+![](../.gitbook/assets/87%20%281%29.png)
 
 **Grupo E61**
 
@@ -1003,7 +1003,7 @@ El grupo, como ya habrá deducido el lector, es el conjunto por donde sale el ca
 
 La empresa Faema lanzó en 1961, año de un eclipse, una máquina histórica que denominó E61 y que tenía bastantes innovaciones técnicas entre las cuales estaba un grupo con este aspecto
 
-![](../.gitbook/assets/88%20%281%29.png)
+![](../.gitbook/assets/88%20%281%29%20%281%29.png)
 
 Este grupo fue diseñado originalmente para mantener la temperatura correcta en el sistema HX pero hoy en día, dado que la patente está vencida, lo montan máquinas de distintas marcas que no son del grupo Cimbali \(actual propietario de Faema\) e incluso se monta en muchas máquinas que no son HX.
 
@@ -1027,16 +1027,16 @@ Casi todas las máquinas de este nivel usan portafiltros de 60mm para filtros de
 
 En este nivel es también habitual que los aficionados adquieran duchas y filtros de especial calidad llamados “de competición” para mejorar la distribución de agua en la ducha y la extracción en el filtro. Las dos marcas más famosas de este tipo de complementos son IMS y VST.
 
-![](../.gitbook/assets/90.png)
+![](../.gitbook/assets/90%20%281%29.png)
 
 **Máquinas de hasta 1.000 euros**
 
 En el rango entre 500 y 1.000 euros tenemos un abanico amplio de máquinas para elegir. A continuación referiré algunas de las más habituales entre los aficionados, cada cual tendrá sus preferencias, pero todas estas son buenas opciones.
 
-| ![](../.gitbook/assets/91%20%281%29.png) | ![](../.gitbook/assets/92.png) | ![](../.gitbook/assets/93%20%281%29.png) |
+| ![](../.gitbook/assets/91%20%281%29%20%281%29.png) | ![](../.gitbook/assets/92.png) | ![](../.gitbook/assets/93%20%281%29.png) |
 | :--- | :--- | :--- |
 | Nuova Simonelli Oscar | Ascaso Dream PID | Expobar Office Leva |
-| ![](../.gitbook/assets/94.png) | ![](../.gitbook/assets/95.png) | ![](../.gitbook/assets/96.png) |
+| ![](../.gitbook/assets/94.png) | ![](../.gitbook/assets/95%20%281%29.png) | ![](../.gitbook/assets/96.png) |
 | Bezzera Unica PID | Lelit Mara | Vibiemme Domobar |
 
 La elección de una máquina entre 500 y 1.000 euros puede ser un paso natural tras haber comenzado con una máquina económica. Si queremos mejorar la homogeneidad de nuestros cafés buscaremos tener una máquina con PID o bien si queremos evitar el tedioso proceso de generar vapor para hacer una bebida con leche buscaremos una HX.
@@ -1063,11 +1063,11 @@ Las bombas vibratorias tienen este aspecto
 
 y este es un esquema de su funcionamiento
 
-![](../.gitbook/assets/98.png)
+![](../.gitbook/assets/98%20%281%29.png)
 
 Las bombas vibratorias son ruidosas. En este nivel de precios comienza a haber máquinas con unas bombas más silenciosas y que mantienen un flujo de agua a presión más estable, si bien son bastante grandes y costosas. Son las bombas rotatorias.
 
-![](../.gitbook/assets/99.png)
+![](../.gitbook/assets/99%20%281%29.png)
 
 Algunos aficionados aseguran obtener mejores shots con una bomba rotatoria mientras que otros aseguran que no hay diferencia alguna en el resultado en taza.
 
@@ -1077,12 +1077,12 @@ He tenido máquinas con bombas vibratorias realmente ruidosas. De hecho mi máqu
 
 **Máquinas entre 1.000 y 2.000 euros**
 
-| ![](../.gitbook/assets/100.png) | ![](../.gitbook/assets/101%20%281%29.png) | ![](../.gitbook/assets/102%20%281%29.png) |
+| ![](../.gitbook/assets/100.png) | ![](../.gitbook/assets/101%20%281%29.png) | ![](../.gitbook/assets/102%20%281%29%20%281%29.png) |
 | :--- | :--- | :--- |
 | ECM Classika PID | Rocket Appartamento | ACS Minima |
-| ![](../.gitbook/assets/103.png) | ![](../.gitbook/assets/104%20%281%29.png) | ![](../.gitbook/assets/105%20%281%29.png) |
+| ![](../.gitbook/assets/103%20%281%29.png) | ![](../.gitbook/assets/104%20%281%29.png) | ![](../.gitbook/assets/105%20%281%29.png) |
 | Expobar Leva DB PID a.k.a. Brewtus | Bezzera Mitica PID | Quick Mill QM67 |
-| ![](../.gitbook/assets/106%20%281%29.png) | ![](../.gitbook/assets/107.png) | ![](../.gitbook/assets/108.png) |
+| ![](../.gitbook/assets/106%20%281%29%20%281%29.png) | ![](../.gitbook/assets/107%20%281%29.png) | ![](../.gitbook/assets/108.png) |
 | Bezzera Duo | Lelit Bianca | Rocket Giotto R |
 
 En este rango de precios es más que probable que tengamos ya suficiente experiencia como para saber qué máquina queremos tener, no obstante relaciono algunas de las máquinas que alguna vez se han visto o comentado entre los usuarios de los foros de café por si le sirven al lector como guía para comenzar su búsqueda de cafetera de primer nivel.
@@ -1107,7 +1107,7 @@ ACS Vesuvius
 
 La Marzocco mini
 
-![](../.gitbook/assets/110.png)
+![](../.gitbook/assets/110%20%281%29.png)
 
 Dalla Corte Mina
 
@@ -1175,13 +1175,13 @@ La crema es un elemento fundamental de un espresso, pero no es mejor café el qu
 
 Hay cafés muy malos que hacen mucha crema, sobre todo si tienen un tueste muy alto. También es más fácil obtener más crema si molemos grueso y sacamos un ratio largo. Será un café con más crema, pero poco cuerpo y con mal sabor.
 
-![](../.gitbook/assets/113%20%281%29.png)
+![](../.gitbook/assets/113%20%281%29%20%281%29.png)
 
 **La cola de ratón**
 
 ¿Podemos saber si el café está saliendo demasiado rápido sólo con verlo caer sin necesidad de báscula y cronómetro? Pues podemos hacernos una idea aproximada incluso sin esperar a pesar el café o medir el tiempo porque cuando el café sale bien se obtienen dos hilos finos y continuos llamados “cola de ratón”
 
-![](../.gitbook/assets/114%20%281%29.png)
+![](../.gitbook/assets/114%20%281%29%20%281%29.png)
 
 Si el café cae gota a gota o si el café sale a borbotones ya podemos saber que no va a quedar en los tiempos adecuados.
 
@@ -1221,13 +1221,13 @@ Luego se baja la jarra para introducir aire durante unos segundos
 
 Finalmente volvemos a introducir un poco la punta de la lanza en la leche y esperamos a que la jarra se caliente mientras la leche gira y las burbujas se deshacen. La textura de la leche debe ser similar a la de la nata, sedosa y brillante.
 
-![](../.gitbook/assets/117.png)
+![](../.gitbook/assets/117%20%281%29.png)
 
 La leche no debe hervir jamás, ni siquiera debe pasar de 65º
 
 ¿Se puede cremar la leche sin lactosa o leche desnatada? La respuesta es que sí, que se puede cremar sin ningún problema. Este café está hecho con leche sin lactosa semidesnatada de Hacendado y es una leche que queda dulce y muy cremosa.
 
-![](../.gitbook/assets/118%20%281%29.png)
+![](../.gitbook/assets/118%20%281%29%20%281%29.png)
 
 Si he encontrado algunas leches que aunque creman bien no quedan tan dulces, por ejemplo la leche de fibra \(preparado lácteo, ni siquiera pone que sea leche\) crema bien pero el sabor es menos dulce.
 
